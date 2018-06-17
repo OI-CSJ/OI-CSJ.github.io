@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# 洛阳地矿双语学校信息学竞赛网站
 
-You can use the [editor on GitHub](https://github.com/DiDiao-OI/DiDiao-OI.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> 注意：此网站非商业用途，仅供教学使用，任何个人和组织不得在非作者同意的情况下转载或使用本网站中的相关内容。本网站内资源均来自网络，本网站仅为资源汇总。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 学校简介
+洛阳地矿双语学校创建于1968年，前身是“河南省地矿局第一地质矿产调查院子弟学校”，简称“地矿学校”，现有初中18个班，小学12个班，位于洛阳市龙门大道关林路交叉口东南角。近年来，多名学生考入省示范性高中。
+## 竞赛简介
+青少年信息学（计算机）奥林匹克竞赛（早期称为青少年计算机程序设计竞赛）是旨在广大青少年中普及计算机教育，推广计算机应用的一项学科性竞赛活动。全国从1984年开始举办全国性竞赛。而自从1989年我国参加第一届国际信息学奥林匹克（International Olympiad in Informatics, 简称IOI）以来，全国青少年计算机程序设计竞赛也更名为全国青少年信息学（计算机）奥林匹克（National Olympiad in Informatics, 简称NOI）。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiDiao-OI/DiDiao-OI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+全国信息学奥林匹克竞赛活动担负着选拔优秀学生参加国际学科奥林匹克竞赛任务，它是经国家教委批准，中国科协具体领导，由中国计算机学会主办的。为促进计算机普及并兼顾提高，从95年开始全国举办信息学奥林匹克竞赛分区联赛。获得全国中学生数学、物理、化学、生物、信息学5个学科奥林匹克竞赛，省赛区获得一等奖者；自主招生（高考加分照顾）享受加5-30分，和保送大学资格；其它竞赛获奖者不享受此待遇。
